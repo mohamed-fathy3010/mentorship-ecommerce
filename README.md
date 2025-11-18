@@ -73,7 +73,9 @@ The relationships between the entities are illustrated in the ERD diagram provid
 
 **Answer:**
 
-The Entity-Relationship Diagram (ERD) for the e-commerce system is available in the file [`ERD.svg`](ERD.svg). This diagram visually represents the structure and relationships of all entities in the database schema.
+The Entity-Relationship Diagram (ERD) for the e-commerce system:
+
+![ERD Diagram](ERD.svg)
 
 ---
 
